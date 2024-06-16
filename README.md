@@ -2,7 +2,7 @@
 
 I have changed my GitHub username to [ackermaneli](https://github.com/ackermaneli).
 
-![Profile Redirect]()
+![Profile Redirect](https://raw.githubusercontent.com/eliordadon/eliordadon/main/profileMoved.png)
 
 <!--
 **eliordadon/eliordadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
