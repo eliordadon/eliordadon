@@ -1,6 +1,7 @@
-## heyo, this profile has moved
+# heyo, this profile has moved
 
-I have changed my GitHub username to [ackermaneli](https://github.com/ackermaneli).
+### I have changed my GitHub username to [ackermaneli](https://github.com/ackermaneli).
+
 
 ![Profile Redirect](https://raw.githubusercontent.com/eliordadon/eliordadon/main/profileMoved.png)
 
